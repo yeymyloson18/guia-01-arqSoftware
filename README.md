@@ -19,7 +19,7 @@ Ing. Lizbeth Jaico Quispe
 ## Evidencias
 
 ### Paso 1: Verificación de versiones
-![Versiones](docs/img/paso1.png)
+![Versiones](docs/imagenes/paso1.png)
 
 ### Paso 2: Configuración de identidad en Git
-![Identidad Git](docs/img/paso2.png)
+![Identidad Git](docs/imagenes/paso2.png)
